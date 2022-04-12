@@ -1,7 +1,7 @@
 %% Plotting thermal images
 % choosing proper .csv file
 filenames={'sample1','sample2'}; 
-filenames={'sample1'}; % if choosing only one
+% filenames={'sample1'}; % if choosing only one
 % set minimum Temperature
 minT=20; 
 % minT=25;
