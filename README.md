@@ -6,5 +6,5 @@ Basic workflow is following:
 - encode, if needed, exported .csv files to UTF8 using `convert_csv_to_utf8.ps1` using Powershell
 - plot images using MATLAB and file `create_contour_plot.m`
 
-Example figure 
+Example figure  
 ![Example heatmap image](Heatmap_of__sample1_and_sample2.png)
