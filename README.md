@@ -1,4 +1,4 @@
-# Plot_Fluke_Ti400_thermal_images
+# Plot Fluke Ti400 thermal images as contour plot using MATLAB
 Method to plot Thermal images from Fluke Ti400 using MATLAB
 
 Basic workflow is following:
