@@ -1,7 +1,7 @@
 # Plot Fluke Ti400 thermal images as contour plot using MATLAB
 Method to plot Thermal images from Fluke Ti400 using MATLAB. If used, please cite to following publication:
 
-Skogberg, A., Siljander, S., Mäki, A. J., Honkanen, M., Efimov, A., Hannula, M., ... & Kallio, P. (2022). Self-assembled cellulose nanofiber–carbon nanotube nanocomposite films with anisotropic conductivity. _Nanoscale_.
+Skogberg, Anne, Sanna Siljander, Antti-Juhana Mäki, Mari Honkanen, Alexander Efimov, Markus Hannula, Panu Lahtinen, Sampo Tuukkanen, Tomas Björkqvist, and Pasi Kallio. 2022. “Self-Assembled Cellulose Nanofiber–Carbon Nanotube Nanocomposite Films with Anisotropic Conductivity.” _Nanoscale_ 14 (2): 448–63. https://doi.org/10.1039/D1NR06937C.
 
 Basic workflow is following:
 - export thermal images (.IS2) as .csv files using Fluke Smart View
